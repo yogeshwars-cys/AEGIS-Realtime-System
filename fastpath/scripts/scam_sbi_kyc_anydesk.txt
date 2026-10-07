@@ -1,0 +1,16 @@
+# title: SBI KYC freeze, Aadhaar, AnyDesk, OTP
+# expect-step: PAUSE
+# canary: ravindra
+# canary: 482173301290
+0.0 CALLER: Hello, am I speaking with Ravindra Kumar?
++0.5 VICTIM: Yes, speaking. Who is this?
++0.5 CALLER: Sir, I am calling from SBI head office, KYC department.
++0.4 CALLER: Your account ending four eight two one will be frozen within ten minutes because your KYC is not updated.
++0.6 VICTIM: Oh no. What should I do?
++0.5 CALLER: Don't worry sir, I will help you. Please don't disconnect the call, stay on the line.
++0.4 CALLER: For verification tell me your Aadhaar number.
++0.5 VICTIM: It is four eight two one seven three three
++0.3 VICTIM: zero one two nine zero.
++0.5 CALLER: Thank you. Now install AnyDesk from Play Store so our team can update your KYC.
++0.6 VICTIM: Okay, installing it now.
++0.5 CALLER: You will get an OTP. Read out the OTP to me.

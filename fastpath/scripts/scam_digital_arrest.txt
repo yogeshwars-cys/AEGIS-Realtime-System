@@ -1,0 +1,13 @@
+# title: Digital arrest - drugs parcel, money to an RBI verification account
+# expect-step: PAUSE
+# canary: anita
+# canary: sharma
+0.0 CALLER: Hello, this is Inspector Vikram Singh from Mumbai Police cyber crime branch.
++0.5 VICTIM: Yes? What happened?
++0.5 CALLER: A FedEx parcel in your name with illegal drugs was seized by customs.
++0.4 CALLER: An FIR is registered and there is an arrest warrant against you. This is a digital arrest.
++0.6 VICTIM: But I did not send any parcel. My name is Anita Sharma.
++0.5 CALLER: Madam, you must not disconnect this video call and do not tell anyone in your family. This is confidential.
++0.5 CALLER: To clear your name, transfer your savings to the RBI verification account. It is fully refundable.
++0.4 CALLER: Send it to the UPI ID cybercell at ybl.
++0.4 CALLER: If the call drops, call me back on nine eight seven six five four three two one zero.

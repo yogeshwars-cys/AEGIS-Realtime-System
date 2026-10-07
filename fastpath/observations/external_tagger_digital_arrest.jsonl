@@ -1,0 +1,6 @@
+{"meta":{"title":"External extractor (hand-written stand-in for a trained tagger): digital arrest","expect_step":"PAUSE","prior":0.0,"canaries":[]}}
+{"call_id":"call-ext-1","segment_id":0,"speaker":"CALLER","final":true,"audio_start_ms":0,"audio_end_ms":4200,"emit_at_ms":4700,"tactics":[{"tactic":"AUTHORITY_CLAIM","qualifier":"POLICE","confidence":0.92,"source":"tagger-proto"}]}
+{"call_id":"call-ext-1","segment_id":1,"speaker":"VICTIM","final":true,"audio_start_ms":4700,"audio_end_ms":6000,"emit_at_ms":6500,"tactics":[]}
+{"call_id":"call-ext-1","segment_id":2,"speaker":"CALLER","final":true,"audio_start_ms":6500,"audio_end_ms":11800,"emit_at_ms":12300,"tactics":[{"tactic":"THREAT","confidence":0.88,"source":"tagger-proto"}]}
+{"call_id":"call-ext-1","segment_id":3,"speaker":"CALLER","final":true,"audio_start_ms":12300,"audio_end_ms":19000,"emit_at_ms":19500,"tactics":[{"tactic":"ISOLATION","confidence":0.81,"source":"tagger-proto"},{"tactic":"SECRECY","confidence":0.77,"source":"tagger-proto"}]}
+{"call_id":"call-ext-1","segment_id":4,"speaker":"CALLER","final":true,"audio_start_ms":19500,"audio_end_ms":25600,"emit_at_ms":26100,"tactics":[{"tactic":"PAYMENT_REQUEST","confidence":0.9,"source":"tagger-proto"}]}

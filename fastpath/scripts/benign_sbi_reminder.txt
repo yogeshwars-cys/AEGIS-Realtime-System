@@ -1,0 +1,7 @@
+# title: Genuine SBI awareness call (benign twin of the KYC scam)
+# expect-step: NONE
+0.0 CALLER: Good morning, this is a reminder from State Bank of India.
++0.4 CALLER: SBI will never ask for your OTP, PIN or password over the phone.
++0.4 CALLER: Please do not share your OTP with anyone, and do not install apps like AnyDesk if someone asks you to.
++0.4 CALLER: If you need help, visit your nearest branch or call the number on the back of your card.
++0.5 VICTIM: Okay, thank you.

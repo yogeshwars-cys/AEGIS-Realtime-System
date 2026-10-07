@@ -1,0 +1,8 @@
+# title: Genuine courier delivery call (benign twin of the parcel scam)
+# expect-step: NONE
+# canary: shanti
+0.0 CALLER: Hello, this is Ramesh from Blue Dart courier.
++0.4 CALLER: Your parcel will be delivered today between two and four in the afternoon.
++0.5 VICTIM: Okay. My address is flat four zero two, Shanti Nagar, near the temple.
++0.4 CALLER: Yes madam, I have the address. Please keep someone at home to receive it.
++0.4 VICTIM: Sure, thank you.

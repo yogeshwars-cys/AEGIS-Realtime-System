@@ -1,0 +1,7 @@
+# title: Hard case - number is in the pattern base, conversation is ordinary
+# Reputation is testimony: it may raise the starting risk, never authorise the pause.
+# prior: 0.9
+# expect-step: NUDGE
+0.0 CALLER: Hello, is this the right number for the plumber?
++0.5 VICTIM: No, wrong number.
++0.4 CALLER: Sorry, thank you.

@@ -1,0 +1,8 @@
+# title: Hard case - genuine delivery agent asks for the delivery OTP
+# An extraction tactic with no pressure or control around it. The evidence gate caps it at
+# VERIFY by design ("verify before you share"); it must never reach the Reality Pause.
+# expect-step: VERIFY
+0.0 CALLER: Hi, this is Suresh, delivery executive from Delhivery.
++0.4 CALLER: I am outside your gate with your order.
++0.4 CALLER: Please tell me the OTP you received to complete the delivery.
++0.5 VICTIM: It is seven three one nine.
